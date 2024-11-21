@@ -1,63 +1,36 @@
-# Invntori.com: Bidding App  
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Welcome to **Invntori.com**, a streamlined bidding platform designed to bring buyers and sellers together for seamless transactions. This app empowers users to participate in live auctions, place bids, and track their activity in real time with an intuitive interface.  
+## Getting Started
 
-## Features  
+First, run the development server:
 
-### User-Friendly Interface  
-- Clean and simple design for easy navigation.  
-- Quick setup for both buyers and sellers.  
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-### Real-Time Bidding  
-- Place live bids in ongoing auctions.  
-- Real-time updates ensure you don’t miss a beat.  
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Auction Management  
-- Sellers can easily create and manage auctions.  
-- View detailed statistics about bids and participation.  
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### Notifications  
-- Get instant alerts about auction status and bidding updates.  
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### Secure Transactions  
-- Built-in payment integration for safe and secure transfers.  
-- Transparent bidding process to ensure fair play.  
+## Learn More
 
-## How to Use  
+To learn more about Next.js, take a look at the following resources:
 
-1. **Sign Up or Log In**  
-   - Create an account or log in to access the platform.  
-2. **Browse Auctions**  
-   - Explore ongoing and upcoming auctions.  
-3. **Place a Bid**  
-   - Select an auction, set your bid, and submit.  
-4. **Create an Auction (For Sellers)**  
-   - Define auction details like item description, starting price, and duration.  
-5. **Monitor and Engage**  
-   - Track your bids and adjust as needed until the auction closes.  
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Tech Stack  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Additional Tools**: WebSocket for real-time updates, Payment gateway API integration  
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Installation  
+## Deploy on Vercel
 
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your-username/invntori-bidding-app.git  
-2. Install dependencies
-   cd invntori-bidding-app  
-npm install  
-3. Start the development server
-   npm start 
- 
-## Contribution
-We welcome contributions! Please fork the repository and submit a pull request with your changes.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-License
-This project is licensed under the MIT License.
-
-- For more details, visit Invntori.com. Feel free to reach out for any queries or support.
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
