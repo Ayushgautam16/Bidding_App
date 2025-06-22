@@ -57,13 +57,9 @@ bun dev
 
 📤 Deployment
 The easiest way to deploy your app is via Vercel.
-
 Push your code to GitHub
-
 Connect your repo to Vercel
-
 Set environment variables (MongoDB URI, API keys, etc.)
-
 Deploy 🚀
 
 📚 Learn More
