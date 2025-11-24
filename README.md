@@ -65,14 +65,4 @@ Deploy 🚀
 📚 Learn More
 Next.js Documentation
 
-Tailwind CSS
-MongoDB
-Stripe / Razorpay
 
-🤝 Contribution
-Contributions are welcome! Please fork the repo, create a new branch, and submit a pull request with your changes.
-
-🛡️ License
-This project is licensed under the MIT License.
-
-"Connecting builders, sellers, and buyers – one bid at a time." 🏗️
