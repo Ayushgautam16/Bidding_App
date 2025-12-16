@@ -48,12 +48,13 @@ yarn dev
 pnpm dev
 # or
 bun dev
-📁 app/
- ┣ 📂 components/         # Reusable UI components
- ┣ 📂 pages/              # Next.js routing
- ┣ 📂 api/                # API endpoints (bids, users, listings)
- ┣ 📂 styles/             # Tailwind configuration
- ┗ 📄 page.tsx            # Main landing page
+app/
+ ┣ components/        # Reusable UI components
+ ┣ pages/             # Application routes
+ ┣ api/               # Backend APIs (bids, users, listings)
+ ┣ styles/            # Tailwind CSS configuration
+ ┗ page.tsx           # Landing page
+
 
 📤 Deployment
 The easiest way to deploy your app is via Vercel.
